@@ -9,6 +9,11 @@ const Home = () => {
       "imageUrl": "https://i.ibb.co/cvpntL1/hats.png"
     },
     {
+      "id": 1,
+      "title": "Topi",
+      "imageUrl": "https://i.ibb.co/cvpntL1/hats.png"
+    },
+    {
       "id": 2,
       "title": "jackets",
       "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
